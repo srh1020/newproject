@@ -1,0 +1,134 @@
+body{
+font-family: 'lucida grande', tahoma, verdana, arian, snas-serif;
+background-color:#5D8AA8;
+}
+
+#container{
+	width: 1080px;
+	margin: 0 auto;
+	paddin: 1px;
+	background-color:#F5F5F5;
+}
+
+#navigation{
+	height:60px;
+	border:3px solid #e3e3e3;
+	margin-top:5px;
+	background-image: url(../images/navbar.png);
+}
+
+ul#navmenu {
+
+	list-style-type:none;
+	font-size:20px;
+}
+
+ul#navmenu li{
+	width:200px;
+	text-align:center;
+	float:left;
+	margin-right:4px
+	
+}
+ul#navmenu a {
+	border:2px solid #ccc;
+	border-radius:25px;
+	text-decoration:none;
+	display:block;
+	width:150px;
+	height:25px;
+	background-color:#A9A9A9
+	
+}
+#banner{
+height:224px;
+background-image: url(../images/Banner3.png);
+	background-size:cover;
+	
+	
+}
+
+#content_area{
+	Float:left;
+	width:750px;
+	margin:20px 0 20px 0;
+	padding: 10px;
+	broder: 3px solid #e3e3e3;
+	color:white;
+}
+.imgleft{
+	float:left;
+	margin: 0px 10px 10px 0;
+	padding: 5px
+	
+}
+
+	
+	
+
+#sidebar{
+	float:right;
+	width:250px;
+	margin: 20px 10px 20px 10px; 
+	border: 3px solid #e3e3e3;
+}
+#Products{
+	height:60px;
+	border:3px solid #e3e3e3;
+	margin-top:5px;
+	background-image: url(../images/bannersmall.png);
+}
+#productsmenu{
+	list-style-type:none;
+	font-size:20px;
+}
+#productsmenu li{
+	width:340px;
+	text-align:center;
+	float:left;
+	margin-right:4px;
+}
+
+#productsmenu a{
+	border:2px solid #ccc;
+	border-radius:25px;
+	text-decoration:none;
+	display:block;
+	width:150px;
+	height:25px;
+	background-color:#A9A9A9;
+}
+
+#Employees p{
+	font-family:Impact, Charcoal, sans-serif;
+	
+	
+	
+}
+#wrapper{
+	width:600px;
+	background:#eee;
+	margin:0 auto 0 auto0
+}
+#heading{
+	height:100px;
+	background-color:red;
+	padding:20px;
+	text-align:center;
+	
+	
+}
+
+}
+#content{
+	min-height:400px;
+	background:#ddd;
+	width: 400px;
+	float:left;
+}
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+body{
+font-family: 'lucida grande', tahoma, verdana, arian, snas-serif;
+background-color:#0000FF;
+}
