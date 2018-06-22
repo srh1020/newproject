@@ -1,0 +1,33 @@
+<html lang="en">
+
+<head>
+<title>Contact Us</title>
+
+<link rel="stylesheet" type="text/css" href="css/legend.css"/>
+<link rel="icon" href="images/favicon.ico" type="favicon">
+
+
+
+</head>
+<body>
+
+<div id="container"> 
+<div><img src= "images/Logo.png">
+<img src="images/smallfacebook.png" style= "float:right">
+</div>
+
+<div id="navigation">
+<ul id="navmenu">
+<li> <a href="index.html"> About US </a></li>
+
+<li> <a href="employees.html"> Our Team </a></li>
+<li> <a href="Products.html"> Products </a></li>
+<li> <a href="Policies.html"> Policies </a></li>
+<li> <a href="contact_us.html"> Contact Us</a></li>
+</ul>
+
+</div>
+<div id="banner"> </div>
+
+
+</body>
